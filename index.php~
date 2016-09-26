@@ -1,0 +1,5 @@
+<?php 
+$maxRows = 100;
+$maxCols = 100;
+for($i = 0; $i < $maxRows $i++)
+?>

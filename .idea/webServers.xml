@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2ead68a-d96d-4e3c-8945-1a6d790b8a16" name="mf" url="http://ftp.s42.freehost.com.ua">
+        <fileTransfer host="ftp.s42.freehost.com.ua" port="21" rootFolder="/www.movnaformula.cn.ua/test" password="dff3dfc4dfd3dfebdfc6dfe3df9bdfc0dffedfe8" username="movnaform">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
